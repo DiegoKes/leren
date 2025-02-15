@@ -1,0 +1,13 @@
+body{
+    margin: auto;
+    text-align: center;
+    margin-top: 25px;
+}
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    text-align: center;
+    max-width: 100%;
+    width: 100%;
+}
